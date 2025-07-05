@@ -1,2 +1,2 @@
-print(Hello Anshu)
-print(what do you do )
+print("Hello Anshu")
+print("what do you do")
